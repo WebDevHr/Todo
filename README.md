@@ -24,10 +24,14 @@ Install dependencies
   npm install
 ```
 
-Start the server
+Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-```bash
-  npm run start
+Compiles and minifies for production
+```
+npm run build
 ```
 
 ## Link
