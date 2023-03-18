@@ -1,4 +1,4 @@
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/197912984@N03/52755627361/in/dateposted-public/" title="todo"><img src="https://live.staticflickr.com/65535/52755627361_0977dbd798_k.jpg" width="600" height="400" alt="todo"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/197912984@N03/52755627361/in/dateposted-public/" title="todo"><img src="https://live.staticflickr.com/65535/52755627361_0977dbd798_k.jpg" width="650" height="400" alt="todo"/></a>
 
 # Todo-list with VueJs
 
