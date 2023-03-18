@@ -1,4 +1,4 @@
-<img src="https://photos.app.goo.gl/92MwiAhBCr6DRvjx5" alt="App Photo"/>
+<img src="https://flic.kr/p/2onQo36" alt="App Photo"/>
 
 # Todo-list with VueJs
 
