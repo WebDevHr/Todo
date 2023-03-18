@@ -1,4 +1,4 @@
-![App Screenshot](https://photos.app.goo.gl/92MwiAhBCr6DRvjx5)
+<img src="https://photos.app.goo.gl/92MwiAhBCr6DRvjx5" alt="App Photo"/>
 
 # Todo-list with VueJs
 
